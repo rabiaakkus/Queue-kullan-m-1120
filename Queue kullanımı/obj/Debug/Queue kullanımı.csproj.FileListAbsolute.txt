@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\bin\Debug\Queue kullanımı.exe.config
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\bin\Debug\Queue kullanımı.exe
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\bin\Debug\Queue kullanımı.pdb
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\obj\Debug\Queue kullanımı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\obj\Debug\Queue kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\obj\Debug\Queue_kullanımı.Form1.resources
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\obj\Debug\Queue_kullanımı.Properties.Resources.resources
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\obj\Debug\Queue kullanımı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\obj\Debug\Queue kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\obj\Debug\Queue kullanımı.exe
+C:\Users\User\source\repos\Queue kullanımı\Queue kullanımı\obj\Debug\Queue kullanımı.pdb
